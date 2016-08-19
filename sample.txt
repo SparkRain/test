@@ -1,3 +1,1 @@
-Git commands even a monkey can understand
-
-Modified file in (hopefully) working branch.
+Yep, it's working
